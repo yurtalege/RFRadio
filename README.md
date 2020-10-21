@@ -1,3 +1,2 @@
 # RFRadio
-RDA5807M
-Arduino
+RDA5807M Arduino code
